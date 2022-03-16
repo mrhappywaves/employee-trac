@@ -1,0 +1,44 @@
+[
+    {
+        "first_name": "Bob",
+        "last_name": "Doe",
+        "role_id": 1, 
+        "manager_id": 2
+    },
+    {
+        "first_name": "Zoe",
+        "last_name": "Bobovich",
+        "role_id": 2, 
+        "manager_id": 3
+    },
+    {
+        "first_name": "Joe",
+        "last_name": "Zoemba",
+        "role_id": 3, 
+        "manager_id": 4
+    },
+    {
+        "first_name": "Nana",
+        "last_name": "Manana",
+        "role_id": 4, 
+        "manager_id": 5
+    },
+    {
+        "first_name": "Neat",
+        "last_name": "Doenzo",
+        "role_id": 5, 
+        "manager_id": 6
+    },
+    {
+        "first_name": "Lucy",
+        "last_name": "Goosy",
+        "role_id": 6, 
+        "manager_id": 7
+    },
+    {
+        "first_name": "Rambo",
+        "last_name": "Red",
+        "role_id": 7, 
+        "manager_id": null
+    }
+]

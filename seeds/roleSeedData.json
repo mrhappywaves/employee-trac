@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Accountant",
+        "salary": 20000, 
+        "department_id": 1
+    },
+    {
+        "title": "Front End Engineer",
+        "salary": 30000, 
+        "department_id": 2
+    },
+    {
+        "title": "Full Stack Engineer",
+        "salary": 40000, 
+        "department_id": 2
+    },
+    {
+        "title": "IT Consultant",
+        "salary": 40000, 
+        "department_id": 3
+    },
+    {
+        "title": "HR Associate",
+        "salary": 25000, 
+        "department_id": 4
+    },
+    {
+        "title": "Marketing Associate",
+        "salary": 45000, 
+        "department_id": 5
+    },
+    {
+        "title": "Sales Associate",
+        "salary": 25000, 
+        "department_id": 6
+    },
+    {
+        "title": "QA Associate",
+        "salary": 25000, 
+        "department_id": 7
+    }
+]
